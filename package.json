@@ -1,0 +1,29 @@
+{
+  "name": "wote",
+  "version": "0.1.0",
+  "description": "Write once, translate everywhere",
+  "author": {
+    "name": "Nicholas Sylke",
+    "email": "hello@nsylke.me",
+    "url": "https://nsylke.me"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nsylke/wote.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nsylke/wote/issues"
+  },
+  "homepage": "https://github.com/nsylke/wote#readme",
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.8",
+    "@types/node": "^14.0.27",
+    "jest": "^26.2.2",
+    "ts-jest": "^26.1.4",
+    "typescript": "^3.9.7"
+  }
+}
